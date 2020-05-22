@@ -3,11 +3,11 @@ object ABC2
 	def main(args : Array[String])
 	{
 		println(takehomesal(40,20));
-		
-		println("profit is : " + profit(20));
-		println("profit is : " + profit(15));
-		println("profit is : " + profit(25));
-		println("profit is : " + profit(30));
+
+		println("Ticket price is 20 profit is : " + profit(20));
+		println("Ticket price is 15 profit is : " + profit(15));
+		println("Ticket price is 25 profit is : " + profit(25));
+		println("Ticket price is 30 profit is : " + profit(30));
 	}
 
 	//q1
